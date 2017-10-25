@@ -6,8 +6,8 @@
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recycler_view_colors"
-        android:layout_width="368dp"
-        android:layout_height="495dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="8dp"
         android:layout_marginLeft="8dp"
